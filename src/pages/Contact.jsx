@@ -50,13 +50,13 @@ export default function Contact() {
               <div className="contact-detail">
                 <span className="contact-detail__label">Email</span>
                 <a href="mailto:contact@coline-hypnotherapeute.fr" className="contact-detail__value">
-                  contact@coline-hypnotherapeute.fr
+                  coline.piou@gmail.com
                 </a>
               </div>
               <div className="contact-detail">
                 <span className="contact-detail__label">Téléphone</span>
                 <a href="tel:+33600000000" className="contact-detail__value">
-                  06 00 00 00 00
+                  07 82 77 34 69
                 </a>
               </div>
               <div className="contact-detail">
