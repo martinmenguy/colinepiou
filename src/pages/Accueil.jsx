@@ -72,9 +72,9 @@ export default function Accueil() {
       {/* ── CTA bas de page ── */}
       <section className="cta-band">
         <div className="container">
-          <h2 className="cta-band__title">Prête à commencer ?</h2>
+          <h2 className="cta-band__title">Prêt à vous lancer ?</h2>
           <p className="cta-band__sub">
-            Un premier échange téléphonique gratuit pour répondre à vos questions.
+            Un premier échange téléphonique gratuit pour déterminer votre problématique et répondre à vos questions.
           </p>
           <a href="/contact" className="cta-band__btn">Me contacter</a>
         </div>
