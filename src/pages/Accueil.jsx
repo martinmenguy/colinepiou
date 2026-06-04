@@ -24,10 +24,10 @@ export default function Accueil() {
       {/* ── Ce que je propose ── */}
       <section className="section propositions">
         <div className="container">
-          <h2 className="section-title">Ce que je propose</h2>
+          <h2 className="section-title">Ce que nous travaillons ensemble</h2>
           <p className="section-intro">
-            L'hypnose thérapeutique est un outil puissant pour accompagner<br />
-            les transformations profondes, à votre rythme.
+            Les champs d'application de l'hypnose thérapeutique<br />
+            sont bien plus larges qu'on ne l'imagine.
           </p>
           <div className="propositions__grid">
             {propositions.map((p) => (
