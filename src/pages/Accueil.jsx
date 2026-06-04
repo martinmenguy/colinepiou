@@ -6,13 +6,13 @@ export default function Accueil() {
       {/* ── Hero ── */}
       <section className="hero">
         <div className="hero__inner container">
-          <p className="hero__eyebrow fade-up">Hypnothérapie</p>
+          <p className="hero__eyebrow fade-up">Hypnose thérapeutique</p>
           <h1 className="hero__title fade-up fade-up-delay-1">
             Un espace pour<br />vous retrouver
           </h1>
           <p className="hero__subtitle fade-up fade-up-delay-2">
-            Accompagnement doux et bienveillant par l'hypnose thérapeutique,<br />
-            pour traverser vos défis et révéler vos ressources intérieures.
+            Un accompagnement sur mesure par l'hypnose,<br />
+            pour traverser vos épreuves et renforcer vos ambitions.
           </p>
           <a href="/contact" className="hero__cta fade-up fade-up-delay-3">
             Prendre rendez-vous
