@@ -104,6 +104,11 @@ const propositions = [
     title: 'Deuil & rupture',
     text: 'Trouver les ressources pour traverser la perte et avancer sereinement.',
   },
+  {
+    icon: '✦',
+    title: 'Performance sportive',
+    text: 'Travailler la concentration, la gestion de la pression et le mental de compétition.',
+  },
 ]
 
 const steps = [
