@@ -86,23 +86,23 @@ export default function Accueil() {
 const propositions = [
   {
     icon: '✦',
-    title: 'Gestion du stress & anxiété',
-    text: 'Apaiser les tensions, retrouver un souffle plus calme et une présence à soi au quotidien.',
+    title: 'Stress & anxiété',
+    text: 'Apaiser le mental et retrouver un rapport serein au quotidien.',
   },
   {
     icon: '✦',
-    title: 'Confiance en soi',
-    text: 'Lever les blocages intérieurs, renforcer votre rapport à vous-même et à vos capacités.',
+    title: 'Confiance & estime de soi',
+    text: 'Changer le regard que vous portez sur vous-même.',
   },
   {
     icon: '✦',
     title: 'Phobies & peurs',
-    text: 'Travailler en douceur sur les peurs qui limitent votre liberté d\'action et votre bien-être.',
+    text: 'Se libérer définitivement d'une peur qui vous limite sans savoir pourquoi.',
   },
   {
     icon: '✦',
-    title: 'Deuil & transitions',
-    text: 'Trouver les ressources pour traverser les passages difficiles et avancer sereinement.',
+    title: 'Deuil & rupture',
+    text: 'Trouver les ressources pour traverser la perte et avancer sereinement.',
   },
 ]
 
