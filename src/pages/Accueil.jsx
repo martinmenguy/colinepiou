@@ -97,7 +97,7 @@ const propositions = [
   {
     icon: '✦',
     title: 'Phobies & peurs',
-    text: 'Se libérer définitivement d'une peur qui vous limite sans savoir pourquoi.',
+    text: 'Se libérer définitivement de peurs qui vous limitent sans savoir pourquoi.',
   },
   {
     icon: '✦',
