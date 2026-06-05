@@ -23,12 +23,12 @@ export default function QuiSuisJe() {
             <p className="about-intro__text">
               Après quelques années dans la restauration, j'ai ressenti le besoin de me 
               reconnecter à l'essentiel : l'humain. Formée à l'IFHE en hypnose Humaniste
-              et Ericksonienne, j'accompagne aujourd'hui ceux qui souhaitent retrouver
-              qui ils sont vraiment.
+              et Ericksonienne, j'accompagne aujourd'hui ceux qui souhaitent se libérer
+              et retrouver qui ils sont vraiment.
             </p>
             <p className="about-intro__text">
-              Ma conviction profonde ? Vous avez déjà en vous toutes les ressources
-              dont vous avez besoin.
+              Mon approche est douce et 100% personnalisée. Ma conviction profonde ? 
+              Vous avez déjà en vous toutes les ressources dont vous avez besoin.
             </p>
           </div>
         </div>
