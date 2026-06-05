@@ -114,7 +114,7 @@ export default function Contact() {
 
                 <div className="field">
                   <label htmlFor="phone" className="field__label">
-                    Téléphone <span className="field__optional">(optionnel)</span>
+                    Téléphone
                   </label>
                   <input
                     id="phone"
@@ -122,7 +122,7 @@ export default function Contact() {
                     type="tel"
                     className="field__input"
                     placeholder="06 12 34 56 78"
-                  />
+                  required/>
                 </div>
 
                 <div className="field">
