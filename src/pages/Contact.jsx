@@ -121,7 +121,7 @@ export default function Contact() {
                     name="phone"
                     type="tel"
                     className="field__input"
-                    placeholder="06 12 34 56 78"
+                    placeholder="06 00 00 00 00"
                   required/>
                 </div>
 
