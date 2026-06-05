@@ -74,7 +74,7 @@ export default function Contact() {
               </p>
             </div>
             <a href="https://calendly.com/coline-hypno/planifier-une-seance-15-min" target="_blank" rel="noopener noreferrer" className="hero__cta">
-  Prendre rendez-vous
+  Rendez-vous téléphonique
 </a>
           </div>
 
