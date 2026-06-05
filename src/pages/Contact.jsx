@@ -62,7 +62,7 @@ export default function Contact() {
               <div className="contact-detail">
                 <span className="contact-detail__label">Cabinet</span>
                 <span className="contact-detail__value">
-                  Votre adresse, Ville
+                  Séance visio uniquement
                 </span>
               </div>
             </div>
