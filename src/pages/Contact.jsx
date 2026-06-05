@@ -67,12 +67,12 @@ export default function Contact() {
               </div>
             </div>
 
-            <div className="contact-note">
+            <a href="https://calendly.com/coline-hypno/planifier-une-seance-15-min" target="_blank" rel="noopener noreferrer" className="contact-note">
               <p>
                 Premier échange téléphonique <strong>gratuit</strong> de 15 minutes
                 pour toute nouvelle demande.
               </p>
-            </div>
+            </a>
           </div>
 
           {/* Formulaire */}
