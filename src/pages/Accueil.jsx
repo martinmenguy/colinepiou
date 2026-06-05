@@ -128,14 +128,14 @@ const propositions = [
 const steps = [
   {
     label: 'Premier contact',
-    text: 'Un appel de 15 minutes pour vous présenter, poser vos questions et voir si l\'approche vous correspond.',
+    text: 'Un appel pour vous présenter, poser vos questions, déterminer votre problématique et voir si l\'approche vous correspond.',
   },
   {
     label: 'Première séance',
-    text: 'Un espace d\'écoute pour comprendre votre demande, vos objectifs et commencer le travail ensemble.',
+    text: 'Un espace d\'écoute bienveillant pour comprendre votre demande, vos objectifs et commencer le travail ensemble.',
   },
   {
     label: 'Suivi personnalisé',
-    text: 'Chaque séance est adaptée à vos besoins. Le nombre de séances varie selon chaque personne.',
+    text: 'Chaque séance est adaptée à vos besoins. Le nombre de séances varie selon chaque personne et chaque problématique.',
   },
 ]
