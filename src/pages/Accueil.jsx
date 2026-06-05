@@ -14,7 +14,7 @@ export default function Accueil() {
             Un accompagnement sur mesure par l'hypnose,<br />
             pour traverser vos épreuves et renforcer vos ambitions.
           </p>
-          <a href="/contact" className="hero__cta fade-up fade-up-delay-3">
+          <a href="https://calendly.com/coline-hypno/planifier-une-seance-15-min" className="hero__cta fade-up fade-up-delay-3">
             Prendre rendez-vous
           </a>
         </div>
