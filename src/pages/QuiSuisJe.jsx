@@ -15,10 +15,7 @@ export default function QuiSuisJe() {
       <section className="section about-intro">
         <div className="container about-intro__grid">
           <div className="about-intro__image-wrap">
-            {/* Remplacer par votre photo : <img src="/photo-coline.jpg" alt="Coline, hypnothérapeute" /> */}
-            <div className="about-intro__image-placeholder" aria-hidden="true">
-              <span>Votre photo ici</span>
-            </div>
+            <img src="/IMG_9904.jpeg" alt="Coline, hypnothérapeute" className="about-intro__image" />
           </div>
           <div className="about-intro__content">
             <h2 className="about-intro__name">Coline</h2>
