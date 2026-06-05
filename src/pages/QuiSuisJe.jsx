@@ -98,15 +98,11 @@ const valeurs = [
     text: 'Un espace sans jugement où vous êtes libre d\'être pleinement vous-même.',
   },
   {
-    title: 'Respect du rythme',
-    text: 'Chaque personne avance à son propre rythme. Je m\'adapte toujours à vous.',
-  },
-  {
     title: 'Confidentialité',
     text: 'Tout ce qui se passe en séance reste strictement confidentiel.',
   },
   {
-    title: 'Ancrage éthique',
-    text: 'Je travaille dans le respect des règles déontologiques de la profession.',
+    title: 'Séances personnalisées',
+    text: 'Chaque personne avance à son rythme. Je m\'adapte toujours à vous et vos objectifs.',
   },
 ]
