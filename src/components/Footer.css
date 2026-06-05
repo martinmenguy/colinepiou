@@ -46,7 +46,22 @@
   color: rgba(255, 255, 255, 0.5);
   letter-spacing: 0.04em;
 }
+.footer__social {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
 
+.footer__social a {
+  color: currentColor;
+  opacity: 0.5;
+  transition: opacity 0.2s ease;
+}
+
+.footer__social a:hover {
+  opacity: 0.9;
+}
 @media (max-width: 640px) {
   .footer__nav { gap: 1.25rem; }
 }
