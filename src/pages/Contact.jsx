@@ -12,7 +12,7 @@ export default function Contact() {
     const data = new FormData(form)
 
     // Formspree : remplacer YOUR_FORM_ID par votre identifiant
-    const res = await fetch('https://formspree.io/f/YOUR_FORM_ID', {
+    const res = await fetch('https://formspree.io/f/mpqeqdpg', {
       method: 'POST',
       body: data,
       headers: { Accept: 'application/json' },
