@@ -29,7 +29,7 @@ export default function Header() {
         {/* Logo */}
         <NavLink to="/" className="header__logo-link">
           <img
-            src="/logo-beige.png"
+            src="/Palette_couleurs_-_coline.hypno-removebg-preview.png"
             alt="Coline hypnothérapeute"
             className="header__logo"
           />
