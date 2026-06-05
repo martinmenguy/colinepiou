@@ -21,15 +21,14 @@ export default function QuiSuisJe() {
             <h2 className="about-intro__name">Coline</h2>
             <p className="about-intro__role">Hypnothérapeute certifiée</p>
             <p className="about-intro__text">
-              Passionnée par le fonctionnement de l'esprit humain et par le pouvoir
-              de la relation thérapeutique, je me suis formée à l'hypnose ericksonienne
-              pour accompagner les personnes qui souhaitent se libérer de ce qui les
-              freine et avancer vers une vie plus alignée.
+              Après quelques années dans la restauration, j'ai ressenti le besoin de me 
+              reconnecter à l'essentiel : l'humain. Formée à l'IFHE en hypnose Humaniste
+              et Ericksonienne, j'accompagne aujourd'hui ceux qui souhaitent retrouver
+              qui ils sont vraiment.
             </p>
             <p className="about-intro__text">
-              Mon approche est douce, bienveillante et centrée sur vos ressources.
-              Je crois profondément que chacun porte en lui les clés de sa propre
-              transformation.
+              Ma conviction profonde ? Vous avez déjà en vous toutes les ressources
+              dont vous avez besoin.
             </p>
           </div>
         </div>
