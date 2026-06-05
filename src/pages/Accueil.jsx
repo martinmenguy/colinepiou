@@ -76,7 +76,7 @@ export default function Accueil() {
           <p className="cta-band__sub">
             Un premier échange téléphonique gratuit pour déterminer votre problématique et répondre à vos questions.
           </p>
-          <a href="/contact" className="cta-band__btn">Me contacter</a>
+          <a href="https://calendly.com/coline-hypno/planifier-une-seance-15-min" className="cta-band__btn">Me contacter</a>
         </div>
       </section>
     </>
