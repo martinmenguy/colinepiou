@@ -109,6 +109,20 @@ const propositions = [
     title: 'Performance sportive',
     text: 'Travailler la concentration, la gestion de la pression et le mental de compétition.',
   },
+  {
+    icon: '✦',
+    title: 'Addictions & habitudes',
+    text: 'Tabac, sucre, comportements répétitifs : reprendre la main sur ce qui vous échappe.',
+  },
+  {
+    icon: '✦',
+    title: 'Sommeil & récupération',
+    text: 'Retrouver un endormissement naturel et un repos réparateur.',
+  },
+  {
+    icon: '✦',
+    title: 'Et bien plus encore...',
+  },
 ]
 
 const steps = [
