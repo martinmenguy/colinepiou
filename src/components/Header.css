@@ -27,7 +27,7 @@
 }
 
 .header__logo {
-  height: 56px;
+  height: 80px;
   width: auto;
   object-fit: contain;
   /* The logo PNG has a beige background matching the site */
