@@ -11,7 +11,7 @@ export default function Footer() {
         {/* Logo version bleue sur fond bleu */}
         <div className="footer__logo-wrap">
           <img
-            src="/logo-bleu.png"
+            src="/logo-blanc-détouré.png"
             alt="Coline hypnothérapeute"
             className="footer__logo"
           />
