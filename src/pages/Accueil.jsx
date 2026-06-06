@@ -46,8 +46,8 @@ export default function Accueil() {
         <div className="container">
           <blockquote className="quote">
             <p>
-              « L'hypnose ne vous fait pas perdre le contrôle —<br />
-              elle vous aide à le retrouver. »
+              « On ne peut pas mentir à l'inconscient —<br />
+              il connait toujours la vérité. »
             </p>
           </blockquote>
         </div>
