@@ -46,7 +46,7 @@ export default function Accueil() {
         <div className="container">
           <blockquote className="quote">
             <p>
-              « On ne peut pas mentir à l'inconscient —<br />
+              « On ne peut pas mentir à l'inconscient, <br />
               il connait toujours la vérité. »
             </p>
           </blockquote>
