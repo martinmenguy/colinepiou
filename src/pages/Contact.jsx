@@ -146,10 +146,10 @@ export default function Contact() {
           </div>
         </div>
       </section>
-     <section className="section faq-link" style={{padding: '0.5rem 0 2rem 0'}}>
+    <section className="section faq-link" style={{padding: '0.5rem 0 2rem 0'}}>
   <div className="container" style={{textAlign: 'center'}}>
-    <NavLink to="/faq" style={{color: 'var(--brown)', textDecoration: 'underline'}}>FAQ</NavLink>
-      Une question sur l'hypnose ? La réponse est peut-être dans la <a href="/faq" style={{color: 'var(--brown)', textDecoration: 'underline'}}>FAQ</a>.
+    <p style={{color: 'var(--text-light)', fontSize: '1.2rem'}}>
+      Une question sur l'hypnose ? La réponse est peut-être dans la <NavLink to="/faq" style={{color: 'var(--brown)', textDecoration: 'underline'}}>FAQ</NavLink>.
     </p>
   </div>
 </section>
