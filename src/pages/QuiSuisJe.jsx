@@ -34,23 +34,21 @@ export default function QuiSuisJe() {
         </div>
       </section>
 
-      {/* ── Formation ── */}
-      <section className="section formation">
-        <div className="container">
-          <h2 className="section-title">Formation & parcours</h2>
-          <div className="timeline">
-            {formations.map((f) => (
-              <div key={f.year} className="timeline__item">
-                <div className="timeline__year">{f.year}</div>
-                <div className="timeline__content">
-                  <h3 className="timeline__title">{f.title}</h3>
-                  <p className="timeline__desc">{f.desc}</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
+     {/* — Approches — */}
+<section className="section approches">
+  <div className="container">
+    <div className="approches__grid">
+      <div className="approche__card">
+        <h3 className="approche__title">Hypnose humaniste</h3>
+        <p className="approche__text">L'hypnose humaniste travaille en conscience — vous restez pleinement éveillé et acteur de votre transformation. Elle intègre une dimension spirituelle et symbolique, et permet d'aller chercher les causes profondes d'une problématique. Idéale pour les travaux d'identité, de confiance en soi, de deuil ou de reconnexion à soi-même.</p>
+      </div>
+      <div className="approche__card">
+        <h3 className="approche__title">Hypnose ericksonienne</h3>
+        <p className="approche__text">L'hypnose ericksonienne utilise un état de transe légère et naturelle pour contourner les résistances du mental conscient. Douce et indirecte, elle s'adapte à chaque personne et agit efficacement sur les comportements, les phobies, le stress, les addictions ou encore la douleur.</p>
+      </div>
+    </div>
+  </div>
+</section>
 
       {/* ── Valeurs ── */}
       <section className="section valeurs">
@@ -69,24 +67,6 @@ export default function QuiSuisJe() {
     </>
   )
 }
-
-const formations = [
-  {
-    year: '2024',
-    title: 'Certification en hypnose ericksonienne',
-    desc: 'Formation complète — [Nom de l\'école], [Ville]',
-  },
-  {
-    year: '2023',
-    title: 'Formation complémentaire',
-    desc: 'À compléter avec votre parcours',
-  },
-  {
-    year: '2022',
-    title: 'Début du parcours',
-    desc: 'À compléter avec votre parcours',
-  },
-]
 
 const valeurs = [
   {
