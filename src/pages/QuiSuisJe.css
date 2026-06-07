@@ -126,6 +126,7 @@
 
 .approche__title {
   font-family: var(--font-sub);
+  font-style: normal;
   font-size: 1.6rem;
   color: white;
   margin-bottom: 1.25rem;
