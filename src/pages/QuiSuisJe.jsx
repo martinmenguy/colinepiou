@@ -40,7 +40,7 @@ export default function QuiSuisJe() {
     <div className="approches__grid">
       <div className="approche__card">
         <h3 className="approche__title">Hypnose Humaniste</h3>
-        <p className="approche__text">L'hypnose Humaniste travaille en conscience — vous restez pleinement éveillé et acteur de votre transformation. Elle intègre une dimension spirituelle et symbolique, et permet d'aller chercher les causes profondes d'une problématique. Idéale pour les travaux d'identité, de confiance en soi, de deuil ou de reconnexion à soi-même.</p>
+        <p className="approche__text">L'hypnose Humaniste travaille en conscience — vous restez pleinement éveillé et acteur de votre transformation. Elle intègre une dimension symbolique, et permet d'aller chercher les causes profondes d'une problématique. Idéale pour les travaux d'identité, de deuil, de confiance ou d'estime de soi.</p>
       </div>
       <div className="approche__card">
         <h3 className="approche__title">Hypnose Ericksonienne</h3>
