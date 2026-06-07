@@ -40,4 +40,5 @@
 }
 
 .mentions__link:hover {
-  color: var(--tex
+  color: var(--text);
+}
