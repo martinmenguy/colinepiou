@@ -9,7 +9,8 @@
 }
 
 .faq__intro {
-  font-size: 1.05rem;
+  font-family: var(--font-sub);
+font-size: 1.3rem;
   color: var(--text-light);
   line-height: 1.75;
   margin-bottom: 3rem;
