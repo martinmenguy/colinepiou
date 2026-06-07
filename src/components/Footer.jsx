@@ -31,7 +31,8 @@ export default function Footer() {
         <nav className="footer__nav" aria-label="Navigation footer">
           <NavLink to="/"             className="footer__link">Accueil</NavLink>
           <NavLink to="/qui-suis-je"  className="footer__link">Qui suis-je ?</NavLink>
-          <NavLink to="/contact"      className="footer__link">Contact</NavLink>
+<NavLink to="/contact"      className="footer__link">Contact</NavLink>
+<NavLink to="/faq"          className="footer__link">FAQ</NavLink>
         </nav>
 
         <p className="footer__legal">
