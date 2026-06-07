@@ -70,62 +70,6 @@
   margin-bottom: 1rem;
 }
 
-/* ── Formation ── */
-.formation {
-  background: var(--beige-dark);
-}
-
-.formation .section-title {
-  text-align: left;
-  margin-bottom: 2.5rem;
-}
-
-.timeline {
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
-  border-left: 1px solid rgba(155, 181, 171, 0.4);
-  padding-left: 2.5rem;
-  margin-left: 2rem;
-}
-
-.timeline__item {
-  position: relative;
-}
-
-.timeline__item::before {
-  content: '';
-  position: absolute;
-  left: -2.7rem;
-  top: 0.35rem;
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: var(--sage);
-}
-
-.timeline__year {
-  font-family: var(--font-title);
-  font-style: italic;
-  font-size: 1.5rem;
-  color: var(--brown);
-  margin-bottom: 0.25rem;
-}
-
-.timeline__title {
-  font-family: var(--font-sub);
-  font-style: normal;
-  font-size: 1rem;
-  color: var(--text);
-  font-weight: 400;
-  margin-bottom: 0.25rem;
-}
-
-.timeline__desc {
-  font-size: 0.88rem;
-  color: var(--text-light);
-}
-
 /* ── Valeurs ── */
 .valeurs__grid {
   display: grid;
@@ -159,5 +103,43 @@
   .about-intro__grid {
     grid-template-columns: 1fr;
     gap: 2rem;
+  }
+}
+
+/* — Approches — */
+.approches__grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.approche__card {
+  background: var(--blue);
+  border-radius: 12px;
+  padding: 2.5rem;
+  transition: background var(--transition);
+}
+
+.approche__card:hover {
+  background: var(--sage);
+}
+
+.approche__title {
+  font-family: var(--font-heading);
+  font-size: 1.6rem;
+  color: white;
+  margin-bottom: 1.25rem;
+}
+
+.approche__text {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.75;
+}
+
+@media (max-width: 640px) {
+  .approches__grid {
+    grid-template-columns: 1fr;
   }
 }
