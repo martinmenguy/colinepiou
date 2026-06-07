@@ -70,7 +70,7 @@ export default function FAQ() {
 
       <section className="section faq-section">
         <div className="container faq__container">
-          <p className="faq__intro">Tout ce que vous avez toujours voulu savoir sur l'hypnose sans oser le demander.</p>
+          <p className="faq__intro">Tout ce que vous avez toujours voulu savoir<br />sur l'hypnose sans oser le demander.</p>
           <div className="faq__list">
             {faqs.map((faq, index) => (
               <div
