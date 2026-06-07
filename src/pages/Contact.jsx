@@ -145,9 +145,9 @@ export default function Contact() {
           </div>
         </div>
       </section>
-      <section className="section faq-link">
+     <section className="section faq-link" style={{padding: '2rem 0'}}>
   <div className="container" style={{textAlign: 'center'}}>
-    <p style={{color: 'var(--text-light)', fontSize: '1rem'}}>
+    <p style={{color: 'var(--text-light)', fontSize: '1.2rem'}}>
       Une question sur l'hypnose ? La réponse est peut-être dans la <a href="/faq" style={{color: 'var(--brown)', textDecoration: 'underline'}}>FAQ</a>.
     </p>
   </div>
