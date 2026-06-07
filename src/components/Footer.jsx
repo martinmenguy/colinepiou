@@ -40,7 +40,9 @@ export default function Footer() {
         <p className="footer__legal">
           © {year} Coline — Hypnothérapeute &nbsp;·&nbsp; Tous droits réservés
         </p>
-
+<p className="footer__legal">
+  <NavLink to="/mentions-legales" className="footer__legal-link">Mentions légales</NavLink>
+</p>
       </div>
     </footer>
   )
