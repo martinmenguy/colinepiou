@@ -148,7 +148,7 @@ export default function Contact() {
       </section>
      <section className="section faq-link" style={{padding: '2rem 0'}}>
   <div className="container" style={{textAlign: 'center'}}>
-    <p style={{color: 'var(--text-light)', fontSize: '1.2rem'}}>
+    <NavLink to="/faq" style={{color: 'var(--brown)', textDecoration: 'underline'}}>FAQ</NavLink>
       Une question sur l'hypnose ? La réponse est peut-être dans la <a href="/faq" style={{color: 'var(--brown)', textDecoration: 'underline'}}>FAQ</a>.
     </p>
   </div>
