@@ -35,7 +35,7 @@ export default function QuiSuisJe() {
       </section>
 
      {/* — Approches — */}
-<section className="section approches">
+<section className="section formation approches">
   <div className="container">
     <div className="approches__grid">
       <div className="approche__card">
