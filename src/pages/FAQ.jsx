@@ -8,7 +8,7 @@ const faqs = [
   },
   {
     question: "Est-ce qu'on perd le contrôle pendant une séance ?",
-    answer: "Non, c'est même le contraire. Vous restez conscient et maître de vous-même tout au long de la séance. L'hypnose thérapeutique ne vise pas à vous faire lâcher le contrôle mais à vous aider à accéder à vos propres ressources intérieures."
+    answer: "Non, c'est même le contraire. Vous restez conscient et maître de vous-même tout au long de la séance. L'hypnose thérapeutique vise à vous aider à accéder à vos propres ressources intérieures."
   },
   {
     question: "Est-ce qu'on peut être forcé de faire des choses contre sa volonté ?",
@@ -16,7 +16,7 @@ const faqs = [
   },
   {
     question: "Est-ce que l'hypnose fonctionne sur tout le monde ?",
-    answer: "En grande majorité, oui. Tout le monde est capable d'entrer en état hypnotique — c'est une capacité naturelle du cerveau. Ce qui varie c'est la profondeur de l'état, mais même une transe légère suffit pour obtenir des résultats thérapeutiques."
+    answer: "Oui. Tout le monde est capable d'entrer en état hypnotique — c'est une capacité naturelle du cerveau. Ce qui varie c'est la profondeur de l'état, mais même une transe légère suffit pour obtenir des résultats thérapeutiques."
   },
   {
     question: "Est-ce qu'on est inconscient pendant une séance ?",
