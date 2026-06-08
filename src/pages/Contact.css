@@ -185,3 +185,12 @@ a.contact-detail__value:hover {
     gap: 3rem;
   }
 }
+.tarif-band {
+  background: var(--beige-dark);
+  padding: 2rem 0;
+  text-align: center;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  letter-spacing: 0.08em;
+  color: var(--text);
+}
