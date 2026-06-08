@@ -82,7 +82,7 @@ export default function Accueil() {
       {/* — Témoignages — */}
 <section className="section temoignages">
   <div className="container">
-    <p className="page-hero__eyebrow">Ils témoignent</p>
+    <p className="page-hero__eyebrow" style={{textAlign: 'center'}}>Ils témoignent</p>
     <h2 className="section-title">Avis clients</h2>
     <div className="temoignages__grid">
       <div className="temoignage__card">
