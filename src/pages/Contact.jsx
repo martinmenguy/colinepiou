@@ -155,7 +155,7 @@ export default function Contact() {
 </section>
       <section className="tarif-band">
   <div className="container">
-    <p>Séance d'hypnose (1h15 en moyenne) — <strong>70 €</strong></p>
+    <p>Séance d'hypnose (1h15 en moyenne) — <strong>60 €</strong></p>
   </div>
 </section>
     </>
