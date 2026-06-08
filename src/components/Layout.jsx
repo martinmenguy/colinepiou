@@ -12,7 +12,7 @@ export default function Layout() {
       </main>
       <Footer />
 
-      
+      <a
         href="https://calendly.com/coline-hypno/planifier-une-seance-15-min"
         target="_blank"
         rel="noopener noreferrer"
