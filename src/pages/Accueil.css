@@ -218,3 +218,40 @@
   background: rgba(255, 255, 255, 0.15);
   border-color: var(--white);
 }
+.temoignages {
+  background: var(--beige);
+}
+
+.temoignages__grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.temoignage__card {
+  background: var(--beige-dark);
+  padding: 2rem;
+  border-radius: 4px;
+}
+
+.temoignage__nom {
+  font-family: var(--font-title);
+  font-style: italic;
+  font-size: 1.2rem;
+  color: var(--text);
+  margin-bottom: 1rem;
+}
+
+.temoignage__texte {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  color: var(--text-light);
+  line-height: 1.8;
+}
+
+@media (max-width: 768px) {
+  .temoignages__grid {
+    grid-template-columns: 1fr;
+  }
+}
