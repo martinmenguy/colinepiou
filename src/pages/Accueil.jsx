@@ -79,6 +79,23 @@ export default function Accueil() {
           <a href="https://calendly.com/coline-hypno/planifier-une-seance-15-min" className="cta-band__btn">Me contacter</a>
         </div>
       </section>
+      {/* — Témoignages — */}
+<section className="section temoignages">
+  <div className="container">
+    <p className="page-hero__eyebrow">Ils témoignent</p>
+    <h2 className="section-title">Avis clients</h2>
+    <div className="temoignages__grid">
+      <div className="temoignage__card">
+        <p className="temoignage__nom">Sabrina L.</p>
+        <p className="temoignage__texte">"Cette séance m'a permis de me sentir plus légère et plus sereine. Une très belle expérience que je recommande sincèrement à toute personne qui souhaite avancer ou retrouver un mieux-être. Merci encore Coline pour votre professionnalisme et votre gentillesse."</p>
+      </div>
+      <div className="temoignage__card">
+        <p className="temoignage__nom">Carine N.</p>
+        <p className="temoignage__texte">"Coline possède de grandes qualités pour vous accompagner dans l'hypnose. Deux séances m'ont permis de consolider la confiance en moi qui me faisait défaut après avoir traversé un moment difficile. Un grand merci pour cette expérience !"</p>
+      </div>
+    </div>
+  </div>
+</section>
     </>
   )
 }
