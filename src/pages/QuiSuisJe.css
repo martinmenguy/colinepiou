@@ -16,7 +16,9 @@
   font-size: clamp(2.5rem, 6vw, 5rem);
   color: var(--text);
 }
-
+.page-hero + .section {
+  padding-top: 3rem;
+}
 /* ── About intro ── */
 .about-intro__grid {
   display: grid;
