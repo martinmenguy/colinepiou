@@ -236,8 +236,8 @@
 }
 
 .temoignage__nom {
-  font-family: var(--font-title);
-  font-style: italic;
+  font-family: var(--font-sub);
+  font-style: normal;
   font-size: 1.2rem;
   color: var(--text);
   margin-bottom: 1rem;
