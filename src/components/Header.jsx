@@ -5,7 +5,8 @@ import './Header.css'
 const navLinks = [
   { to: '/',            label: 'Accueil' },
   { to: '/qui-suis-je', label: 'Qui suis-je ?' },
-  { to: '/contact',     label: 'Contact' },
+  { to: '/contact',    label: 'Contact' },
+  { to: '/blog',       label: 'Blog' },
 ]
 
 export default function Header() {
