@@ -1,15 +1,17 @@
 export const articles = [
   {
     id: 1,
-    slug: 'quest-ce-que-hypnose-therapeutique',
-    titre: "Qu'est-ce que l'hypnose thérapeutique ?",
-    date: '2026-05-10',
-    resume: "L'hypnose thérapeutique est souvent mal comprise. Loin des clichés du music-hall, c'est une approche douce et bienveillante qui permet d'accéder aux ressources profondes de votre inconscient pour favoriser un changement durable.",
+    slug: 'hypnose-humaniste-vs-hypnose-ericksonienne-quelles-différences',
+    titre: "Hypnose humaniste VS hypnose ericksonienne : quelles différences ?",
+    date: '2026-06-15',
+    resume: "Oui, il existe plusieurs types d'hypnose, mais quelles sont les différences ?",
     contenu: [
-      "L'hypnose thérapeutique est un état naturel de conscience modifiée que nous expérimentons tous au quotidien — juste avant de nous endormir, ou lorsque nous sommes absorbés dans une activité. En séance, le thérapeute guide cet état pour permettre au patient d'accéder à ses ressources intérieures.",
-      "Contrairement aux idées reçues, vous restez pleinement conscient et maître de vous-même durant toute la séance. Vous ne dormez pas, et vous ne pouvez pas être forcé à faire quoi que ce soit contre votre volonté.",
-      "L'hypnose thérapeutique peut accompagner de nombreuses problématiques : gestion du stress et de l'anxiété, confiance en soi, phobies, troubles du sommeil, douleurs chroniques, et bien plus encore.",
-      "Chaque séance est unique et personnalisée. Lors de notre premier échange, nous définirons ensemble vos objectifs et je vous expliquerai en détail le déroulement de l'accompagnement."
+      "Il n'existe pas 'une' hypnose. Il en existe plusieurs. Et cette confusion, entretenue par les spectacles et les clichés, empêche souvent de comprendre ce qu'on vient vraiment chercher en séance.Deux approches reviennent le plus souvent en thérapie : l'hypnose ericksonienne et l'hypnose humaniste. Elles partent du même endroit, mais n'avancent pas du tout pareil.
+",
+      "Dans les deux cas, vous traversez un état de conscience modifié, tout à fait naturel, le même que celui que vous vivez plusieurs fois par jour sans vous en rendre compte. Vous ne perdez jamais le contrôle, c'est votre inconscient qui fait le travail, pas moi à votre place. La vraie différence, elle se joue dans le chemin pour y arriver.",
+      "L'hypnose ericksonienne vient de Milton Erickson, psychiatre américain qui a marqué le XXe siècle. Sa méthode : passer par des métaphores, des histoires, un langage volontairement évocateur et un peu flou. L'idée derrière, c'est de contourner les résistances conscientes pour laisser l'inconscient trouver lui-même ses réponses, sans qu'on lui dicte la marche à suivre. C'est une approche qui fonctionne particulièrement bien sur des blocages bien identifiés : phobies, comportements automatiques. Vous n'avez qu'à écouter, et laissez le voyage venir à vous.",
+      "Plus récente, l'hypnose humaniste portée notamment par Olivier Lockert, prend le chemin inverse. Vous restez pleinement présent et acteur : on peut échanger pendant la séance, le langage est direct, sans détour ni métaphore. Le but ne se limite pas à effacer un symptôme. Il s'agit de se reconnecter à ses émotions, à son ressenti, à ce qui compte vraiment pour soi. Une approche qui parle bien aux démarches de développement personnel et aux questionnements plus profonds sur le sens.",
+      "Concrètement, laquelle choisir ? Aucune des deux n'est 'meilleure' que l'autre. Tout dépend de ce que vous traversez. Un blocage précis se travaillera souvent mieux en ericksonien. Une quête de sens ou un besoin de mettre des mots sur ce qu'on ressent trouvera plus facilement sa place en humaniste. Formée à l'IFHE dans les deux approches, je ne pars jamais avec une étiquette toute faite. Je m'adapte à ce que vous m'amenez, séance après séance."
     ]
   },
   {
